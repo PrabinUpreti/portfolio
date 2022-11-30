@@ -11,7 +11,7 @@ import {
   DiTerminalBadge,
   DiMysql,
 } from "react-icons/di";
-import { SiFirebase, SiNextdotjs } from "react-icons/si";
+import { SiFirebase } from "react-icons/si";
 
 function Techstack() {
   return (
